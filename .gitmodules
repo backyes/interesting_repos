@@ -4,3 +4,6 @@
 [submodule "es-dev-stack"]
 	path = es-dev-stack
 	url = https://github.com/emergingstack/es-dev-stack.git
+[submodule "nvidia-docker"]
+	path = nvidia-docker
+	url = https://github.com/NVIDIA/nvidia-docker.git
