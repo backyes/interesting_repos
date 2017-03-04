@@ -7,3 +7,6 @@
 [submodule "nvidia-docker"]
 	path = nvidia-docker
 	url = https://github.com/NVIDIA/nvidia-docker.git
+[submodule "mesos-gpu-docker"]
+	path = mesos-gpu-docker
+	url = https://github.com/klueska-mesosphere/mesos-gpu-docker.git
