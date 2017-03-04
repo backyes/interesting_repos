@@ -1,3 +1,6 @@
 [submodule "python-fire"]
 	path = python-fire
 	url = https://github.com/google/python-fire.git
+[submodule "es-dev-stack"]
+	path = es-dev-stack
+	url = https://github.com/emergingstack/es-dev-stack.git
