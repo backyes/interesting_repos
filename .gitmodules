@@ -10,3 +10,6 @@
 [submodule "mesos-gpu-docker"]
 	path = mesos-gpu-docker
 	url = https://github.com/klueska-mesosphere/mesos-gpu-docker.git
+[submodule "paperweekly_bot"]
+	path = paperweekly_bot
+	url = https://github.com/wwj718/paperweekly_bot.git
